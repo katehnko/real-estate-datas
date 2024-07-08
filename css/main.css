@@ -1,0 +1,100 @@
+body {
+    font-family: Inter, sans-serif;
+    background-color: #f8ecd3;
+    color: #000;
+    text-align: left;
+    width: 1440px;
+    padding: 80px;
+}
+
+h1 {
+    width: 814px;
+    color: #000;
+    font-family: Manrope;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 109%; 
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+}
+
+label {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 109%; 
+    letter-spacing: 0.48px;
+}
+
+select {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px 0 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #000; 
+    color: #fff; 
+    width: 300px; 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 40px; 
+    position: relative;
+    display: inline-block;
+    height: 40px;
+    line-height: 20px;
+    color: #F8EBC9;
+    
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 109%; 
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" width="20" height="20"><path d="M5.31878 6.51675C5.22967 6.42973 5.1241 6.36134 5.00826 6.31557C4.89242 6.26981 4.76861 6.24759 4.64408 6.25021C4.51956 6.25283 4.3968 6.28024 4.28298 6.33083C4.16916 6.38143 4.06657 6.4542 3.98119 6.54489C3.89581 6.63558 3.82937 6.74238 3.78573 6.85904C3.74209 6.9757 3.72213 7.09989 3.72703 7.22435C3.73193 7.34881 3.76157 7.47105 3.81424 7.58392C3.86691 7.6968 3.94155 7.79804 4.03378 7.88175L9.34629 12.8817C9.52012 13.045 9.74966 13.1359 9.98816 13.1359C10.2267 13.1359 10.4562 13.045 10.63 12.8817L15.9425 7.88175C16.0348 7.79804 16.1094 7.6968 16.1621 7.58392C16.2147 7.47105 16.2444 7.34881 16.2493 7.22435C16.2542 7.09989 16.2342 6.97571 16.1906 6.85904C16.147 6.74238 16.0805 6.63559 15.9951 6.54489C15.9098 6.4542 15.8072 6.38143 15.6933 6.33083C15.5795 6.28024 15.4568 6.25283 15.3322 6.25021C15.2077 6.24759 15.0839 6.26981 14.9681 6.31557C14.8522 6.36134 14.7467 6.42973 14.6575 6.51675L9.98879 10.9117L5.31878 6.51675Z" fill="%23F8EBC9"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 15px center; 
+}
+
+table {
+    width: 100% ;
+    height: 626px;
+    border-collapse: collapse;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 30px;
+    text-align: left;
+    color: #000;
+    
+
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 109%;
+    letter-spacing: 0.36px;
+}
+
+th {
+    background-color: #000;
+    color: #F8EBC9;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 109%;
+    letter-spacing: 0.48px;
+    text-transform: uppercase;
+}
+
+td {
+    background-color: #f2e5c1;
+   
+}
